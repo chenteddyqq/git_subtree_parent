@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 child6
+lll
+=======
+child6 I add sth at the end of child
+>>>>>>> 09a5588a35233dc7582dc18a2b18c4e77de9d0b5
